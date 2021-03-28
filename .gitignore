@@ -1,0 +1,26 @@
+*.py[co]
+__pycache__
+.pytest_cache
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+#Emacs
+.#*
+venv/
+
+# VS-code
+.vscode/
+
+# Pycharm
+.idea

@@ -1,0 +1,3 @@
+class FutuNotSupported(Exception):
+    pass
+

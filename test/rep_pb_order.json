@@ -1,0 +1,27 @@
+retType: 0
+s2c {
+  header {
+    trdEnv: 0
+    accID: 1989836
+    trdMarket: 2
+  }
+  order {
+    trdSide: 1
+    orderType: 1
+    orderStatus: 15
+    orderID: 3011789102032457104
+    orderIDEx: "541793"
+    code: "GOOG"
+    name: "\350\260\267\346\255\214"
+    qty: 1.0
+    price: 1610.0
+    createTime: "2020-10-24 01:47:30"
+    updateTime: "2020-10-24 03:04:51"
+    fillQty: 0.0
+    fillAvgPrice: 0.0
+    secMarket: 2
+    createTimestamp: 1603518450.0
+    updateTimestamp: 1603523091.0
+    remark: ""
+  }
+}

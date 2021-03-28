@@ -1,0 +1,10 @@
+@startuml
+Actor Cerebro
+participant futubroker
+participant futufeed
+participant futustore
+participant futuapi
+Cerebro -> futubroker: start broker in runstrategies()
+futubroker -> futustore: start store
+futustore -> futuapi: register order and deal handler
+@enduml
