@@ -1,4 +1,6 @@
 @startuml
+!theme bluegray
+skinparam backgroundColor WhiteSmoke
 Actor Cerebro
 participant futubroker
 participant futufeed

@@ -1,2 +1,2 @@
-backtrader
-futu-api
+backtrader==1.9.76.123
+futu-api==6.2.2708

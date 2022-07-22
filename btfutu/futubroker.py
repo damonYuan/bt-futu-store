@@ -42,7 +42,6 @@ class FutuCommInfo(CommInfoBase):
 
 class MetaFutuBroker(BrokerBase.__class__):
     def __init__(cls, name, bases, dct):
-        '''Class has already been created ... register'''
         # Initialize the class
         super(MetaFutuBroker, cls).__init__(name, bases, dct)
         FutuStore.BrokerCls = cls

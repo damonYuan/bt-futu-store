@@ -1,8 +1,27 @@
 README
 ====
 
+![flowchart](docs/btfutu.svg)
+
 A store of [Backtrader](https://www.backtrader.com/) to integrate with [Futu broker's API](https://github.com/FutunnOpen/py-futu-api).
 
-Note [the access to US stock market is not free](https://github.com/FutunnOpen/py-futu-api/issues/53).
+## How to Start
 
+1. Install `FutuOpenD` following [Futu OpenAPI 介绍](https://openapi.futunn.com/futu-api-doc/), login and start the server. Note:
+   1. the version of `FutuOpenD` should >= 6.2.2708.
+   2. please check the market data access, for example, in `FutuOpenD` GUI, it will show the information as
+   ![market_data](docs/market_data.png)
+
+2. Init the virtual env and install the dependencies
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+   pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
+   
+3. 
  
+## Others 
+
+Note [the access to US stock market is not free](https://github.com/FutunnOpen/py-futu-api/issues/53).

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="367.7083px" preserveAspectRatio="none" style="width:866px;height:367px;background:#F5F5F5;" version="1.1" viewBox="0 0 866 367" width="866.6667px" zoomAndPan="magnify"><defs><linearGradient id="gljky2xu0q3up0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#33B2E2"/><stop offset="100%" stop-color="#009FDB"/></linearGradient></defs><g><line style="stroke:#C2C2C2;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="51.0417" x2="51.0417" y1="105.3467" y2="264.0951"/><line style="stroke:#C2C2C2;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="269.7917" x2="269.7917" y1="105.3467" y2="264.0951"/><line style="stroke:#C2C2C2;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="431.25" x2="431.25" y1="105.3467" y2="264.0951"/><line style="stroke:#C2C2C2;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="586.4583" x2="586.4583" y1="105.3467" y2="264.0951"/><line style="stroke:#C2C2C2;stroke-width:1.0416666666666667;stroke-dasharray:5.0,5.0;" x1="819.2708" x2="819.2708" y1="105.3467" y2="264.0951"/><text fill="#009FDB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="48.9583" x="23.9583" y="94.3766">Cerebro</text><ellipse cx="51.5625" cy="19.7917" fill="url(#gljky2xu0q3up0)" rx="8.3333" ry="8.3333" style="stroke:#33B2E2;stroke-width:1.0416666666666667;"/><path d="M51.5625,28.125 L51.5625,56.25 M38.0208,36.4583 L65.1042,36.4583 M51.5625,56.25 L38.0208,71.875 M51.5625,56.25 L65.1042,71.875 " fill="none" style="stroke:#33B2E2;stroke-width:1.0416666666666667;"/><text fill="#009FDB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="48.9583" x="23.9583" y="283.4717">Cerebro</text><ellipse cx="51.5625" cy="303.8167" fill="url(#gljky2xu0q3up0)" rx="8.3333" ry="8.3333" style="stroke:#33B2E2;stroke-width:1.0416666666666667;"/><path d="M51.5625,312.1501 L51.5625,340.2751 M38.0208,320.4834 L65.1042,320.4834 M51.5625,340.2751 L38.0208,355.9001 M51.5625,340.2751 L65.1042,355.9001 " fill="none" style="stroke:#33B2E2;stroke-width:1.0416666666666667;"/><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="94.7917" x="222.9167" y="58.3333"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="63.5417" x="238.5417" y="86.0433">futubroker</text><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="94.7917" x="222.9167" y="263.0534"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="63.5417" x="238.5417" y="290.7633">futubroker</text><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="81.25" x="390.625" y="58.3333"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="50" x="406.25" y="86.0433">futufeed</text><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="81.25" x="390.625" y="263.0534"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="50" x="406.25" y="290.7633">futufeed</text><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="84.375" x="544.7917" y="58.3333"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="560.4167" y="86.0433">futustore</text><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="84.375" x="544.7917" y="263.0534"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="560.4167" y="290.7633">futustore</text><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="72.9167" x="782.8125" y="58.3333"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="41.6667" x="798.4375" y="86.0433">futuapi</text><rect fill="url(#gljky2xu0q3up0)" height="45.9717" rx="10.4167" ry="10.4167" style="stroke:#33B2E2;stroke-width:1.0416666666666667;" width="72.9167" x="782.8125" y="263.0534"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="41.6667" x="798.4375" y="290.7633">futuapi</text><polygon fill="#009FDB" points="257.8125,149.235,268.2292,153.4017,257.8125,157.5684,261.9792,153.4017" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:3.125;" x1="51.5625" x2="264.0625" y1="153.4017" y2="153.4017"/><text fill="#5A5A5A" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="177.0833" x="67.1875" y="140.3483">start broker in runstrategies()</text><polygon fill="#009FDB" points="574.4792,195.2067,584.8958,199.3734,574.4792,203.54,578.6458,199.3734" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:3.125;" x1="270.3125" x2="580.7292" y1="199.3734" y2="199.3734"/><text fill="#5A5A5A" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="61.4583" x="285.9375" y="186.32">start store</text><polygon fill="#009FDB" points="806.7708,241.1784,817.1875,245.3451,806.7708,249.5117,810.9375,245.3451" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:3.125;" x1="586.9792" x2="813.0208" y1="245.3451" y2="245.3451"/><text fill="#5A5A5A" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="190.625" x="602.6042" y="232.2917">register order and deal handler</text><!--MD5=[7ce80740ca49f4b5eeeb84ad6cf1e0f6]
+@startuml
+!theme bluegray
+skinparam backgroundColor WhiteSmoke
+Actor Cerebro
+participant futubroker
+participant futufeed
+participant futustore
+participant futuapi
+Cerebro -> futubroker: start broker in runstrategies()
+futubroker -> futustore: start store
+futustore -> futuapi: register order and deal handler
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #fff
+    HyperLinkColor $ORANGE
+    LineColor #007faf
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #009fdb-#007faf
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #f2f2f2
+    FontColor #0568ae
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #5a5a5a
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #5a5a5a
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #f5f5f5-#f2f2f2
+	FontColor #009fdb
+	BorderColor #f2f2f2
+  }
+  nwdiagDiagram {
+	network {
+		
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+    
+		LineColor #009fdb
+		LineThickness 1.0
+		FontColor #007faf
+	}
+	server {
+		
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	}
+	arrow {
+		FontColor #007faf
+		LineColor #007faf
+	}
+	group {
+		BackGroundColor #d2d2d2
+		LineColor $LIGHT_DARK
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+		
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+		LineColor #009fdb
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #fff
+		LineColor #04538b
+		BackGroundColor #0568ae
+	}
+	separator {
+		LineColor #f2f2f2
+		BackGroundColor #f2f2f2-#c2c2c2
+		FontColor #5a5a5a
+	}
+	milestone {
+		FontColor #0568ae
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #f2f2f2
+		LineColor #c2c2c2
+	}
+	timeline {
+		BackgroundColor #f2f2f2
+		FontColor #5a5a5a
+	}
+	closed {
+		BackgroundColor #bb5d00
+		FontColor #fff
+	}
+  }
+</style>
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            20
+skinparam ParticipantPadding     30
+skinparam BoxPadding             40
+skinparam Padding                8
+skinparam ArrowColor             #959595
+skinparam stereotype {
+    CBackgroundColor #f5f5f5
+    CBorderColor #c2c2c2
+    ABackgroundColor #c4ca33
+    ABorderColor #919700
+    IBackgroundColor #d95555
+    IBorderColor #a62222
+    EBackgroundColor #ee9033
+    EBorderColor #bb5d00
+    NBackgroundColor #3786be
+    NBorderColor #04538b
+}
+skinparam title {
+	FontColor	                 #009fdb
+	BorderColor	                 #c2c2c2
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #f5f5f5-#f2f2f2
+}
+
+
+skinparam legend {
+	BackgroundColor #f2f2f2
+	BorderColor #c2c2c2
+	FontColor #5a5a5a
+}
+
+skinparam swimlane {
+	BorderColor #0568ae
+	BorderThickness 2
+	TitleBackgroundColor  #f5f5f5-#f2f2f2
+	TitleFontColor #009fdb
+}
+
+
+skinparam activity {
+	FontColor #fff
+	BorderColor #009fdb
+	BackgroundColor #33b2e2-#009fdb
+	BarColor #b5bd00
+	StartColor #0568ae
+	EndColor #0568ae
+	DiamondBackgroundColor #f5f5f5-#c2c2c2
+  	DiamondBorderColor #c2c2c2
+	DiamondFontColor #5a5a5a
+}
+
+
+skinparam participant {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #009fdb
+	FontColor #5a5a5a
+}
+
+
+skinparam sequence {
+	BorderColor #009fdb
+	TitleFontColor #009fdb
+	BackgroundColor transparent
+	StartColor #009fdb
+	EndColor #009fdb
+	BoxBackgroundColor #d2d2d2
+	BoxBorderColor #959595
+	BoxFontColor #5a5a5a
+	DelayFontColor #5a5a5a
+	LifeLineBorderColor #c2c2c2
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #f5f5f5
+	GroupBorderColor #959595
+	GroupFontColor #5a5a5a
+	GroupHeaderFontColor #0568ae
+	DividerBackgroundColor #fff-#d2d2d2
+    DividerBorderColor #959595
+    DividerBorderThickness 2
+    DividerFontColor #5a5a5a
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #959595
+	ReferenceFontColor #5a5a5a
+	ReferenceHeaderFontColor #0568ae
+	StereotypeFontColor #fff
+}
+
+
+skinparam partition {
+	BorderColor #009fdb
+	FontColor #009fdb
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam control {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam entity {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam boundary {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #3786be-#0568ae
+	BorderColor #0568ae
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #fff-#d2d2d2
+	BorderColor #c2c2c2
+	FontColor #5a5a5a
+}
+
+
+skinparam component {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam interface {
+	BackgroundColor  #d95555
+	BorderColor  #cf2a2a
+	FontColor #5a5a5a
+}
+
+
+skinparam storage {
+	BackgroundColor #ee9033-#ea7400
+  	BorderColor #ea7400
+	FontColor #fff
+}
+
+
+skinparam node {
+	BackgroundColor #f5f5f5-#f2f2f2
+	BorderColor #c2c2c2
+	FontColor #009fdb
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #009fdb
+}
+
+
+skinparam database {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderColor #007faf
+}
+
+
+skinparam class {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	HeaderBackgroundColor #33b2e2-#009fdb
+	StereotypeFontColor #5a5a5a
+	BorderThickness 1
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	StereotypeFontColor #5a5a5a
+	BorderThickness 1
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderThickness 2
+	StereotypeFontColor #009fdb
+}
+
+
+skinparam rectangle {
+		FontColor #5a5a5a
+	BorderColor #c2c2c2
+	BackgroundColor #fff-#fefefe
+	BorderThickness 2
+	StereotypeFontColor #009fdb
+}
+
+
+skinparam package {
+	FontColor #009fdb
+	BorderColor #33b2e2
+	BackgroundColor transparent
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #fff-#f5f5f5
+  	BorderColor #ea7400
+	FontColor #ea7400
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #fff-#f5f5f5
+  	BorderColor #0568ae
+	FontColor #0568ae
+	BorderThickness 2
+}
+
+
+skinparam state {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderColor #007faf
+	StartColor #0568ae
+	EndColor #0568ae
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam card {
+	BackgroundColor #3786be-#0568ae
+	BorderColor #0568ae
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #f5f5f5-#f2f2f2
+	BorderColor #0568ae
+	FontColor #5a5a5a
+
+}
+
+
+skinparam stack {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+skinparam backgroundColor WhiteSmoke
+Actor Cerebro
+participant futubroker
+participant futufeed
+participant futustore
+participant futuapi
+Cerebro -> futubroker: start broker in runstrategies()
+futubroker -> futustore: start store
+futustore -> futuapi: register order and deal handler
+@enduml
+
+PlantUML version 1.2022.6(Wed Jun 22 01:34:49 HKT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
