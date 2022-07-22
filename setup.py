@@ -1,5 +1,4 @@
 from setuptools import setup
-import os
 REQUIREMENTS = [i.strip() for i in open("requirements.txt").readlines()]
 
 setup(
