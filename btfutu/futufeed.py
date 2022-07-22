@@ -34,12 +34,8 @@ from . import FutuStore
 
 class MetaFutuFeed(DataBase.__class__):
     def __init__(cls, name, bases, dct):
-        '''Class has already been created ... register'''
         print(DataBase.__class__)
-        # Initialize the class
         super(MetaFutuFeed, cls).__init__(name, bases, dct)
-
-        # Register with the store
         FutuStore.DataCls = cls
 
 
