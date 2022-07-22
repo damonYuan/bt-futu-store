@@ -22,4 +22,12 @@ A store of [Backtrader](https://www.backtrader.com/) to integrate with [Futu bro
  
 ## Others 
 
-- Note [the access to US stock market is not free](https://github.com/FutunnOpen/py-futu-api/issues/53).
+Note 
+
+- [the access to US stock market is not free](https://github.com/FutunnOpen/py-futu-api/issues/53).
+
+Reference
+
+- [Live Trading](https://www.backtrader.com/docu/live/live/)
+- [IB store](https://github.com/mementum/backtrader/blob/master/backtrader/stores/ibstore.py)
+- [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store)
