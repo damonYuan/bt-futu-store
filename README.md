@@ -19,8 +19,6 @@ A store of [Backtrader](https://www.backtrader.com/) to integrate with [Futu bro
    pip install --upgrade pip
    pip install -r requirements.txt
    ```
-   
-3. 
  
 ## Others 
 
