@@ -22,4 +22,4 @@ A store of [Backtrader](https://www.backtrader.com/) to integrate with [Futu bro
  
 ## Others 
 
-Note [the access to US stock market is not free](https://github.com/FutunnOpen/py-futu-api/issues/53).
+- Note [the access to US stock market is not free](https://github.com/FutunnOpen/py-futu-api/issues/53).
